@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Context Menu-->
+    <string name="context_menu_cut">剪切</string>
+    <string name="context_menu_copy">复制</string>
+    <string name="context_menu_paste">粘贴</string>
+    <string name="context_menu_selectionAll">全选</string>
+
+    <!--Options Menu-->
+    <string name="jump_2_bottom_nav_title">Bottom Nav Display</string>
+    <string name="jump_2_lv_display_title">ListView Display</string>
+    <string name="jump_2_drawer_nav_display_title">Drawer Nav Display</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/jump_2_BottomNavigation_activity" android:title="@string/jump_2_bottom_nav_title"/>
+    <item android:id="@+id/jump_2_lv_display" android:title="@string/jump_2_lv_display_title"/>
+    <item android:id="@+id/jump_2_DrawerNavigation" android:title="@string/jump_2_drawer_nav_display_title"/>
+</menu>

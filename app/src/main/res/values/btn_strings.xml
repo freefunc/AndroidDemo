@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <string name="btn_obvious_switch_label">显式跳转</string>
+    <string name="btn_implicit_switch_label">隐式跳转</string>
+    <string name="btn_switch_to_other_app_activity_label">跳转到外部</string>
+    <string name="btn_switch_to_camera_label">打开相机</string>
+    <!-- SecondActivity -->
+    <string name="btn_go_back_label">返回上一页</string>
+</resources>

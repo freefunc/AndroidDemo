@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextView -->
+    <string name="tv_indent_demo_title">Indent的基本使用</string>
+    <string name="edit_text_usage_title">EditText的基本使用</string>
+    <!-- EditText -->
+    <string name="et_usage_hint">长按全选、复制、粘贴</string>
+
+    <!-- Spinner -->
+
+    <string name="spinner_demo_title">Spinner的基本使用</string>
+</resources>
